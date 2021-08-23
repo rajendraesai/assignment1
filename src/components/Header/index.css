@@ -1,0 +1,51 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.nav-heading {
+  color: white;
+  font-family: CircularStd;
+}
+
+.nav-items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.select-card {
+  color: #c31a12;
+  padding-right: 30px;
+}
+
+.select {
+  color: #c31a12;
+  background-color: transparent;
+  border: 0px;
+}
+
+.nav-item {
+  color: #cedcf2;
+  padding-right: 30px;
+}
+
+.nav-button {
+  width: 90px;
+  height: 35px;
+  color: white;
+  background-color: #f0544c;
+  border: solid 1px #c31a12;
+  border-radius: 4px;
+}
