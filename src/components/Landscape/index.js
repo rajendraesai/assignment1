@@ -25,7 +25,7 @@ class Landscape extends Component {
               <p className="intro-tag">No credit card required</p>
             </div>
             <img
-              src="https://res.cloudinary.com/dfh6ltyku/image/upload/v1629741719/raaj/bitmap_3x_vffbo2.png"
+              src="https://res.cloudinary.com/dfh6ltyku/image/upload/v1629740001/raaj/bitmap_eajcpr.png"
               alt="intro-img"
               className="intro-image"
             />
