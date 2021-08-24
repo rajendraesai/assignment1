@@ -49,3 +49,38 @@
   width: 500px;
   height: 600px;
 }
+
+.bg-2 {
+  background-color: white;
+}
+
+.layers-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  padding: 20px;
+}
+
+.layer-description {
+  color: #696871;
+  font-family: CircularStd;
+  width: 300px;
+}
+
+.line {
+  height: 1px;
+  border: solid 1px #eae9f2;
+}
+
+.layer-logo {
+  height: 40px;
+}
+
+.layer-heading {
+  font-family: CircularStd;
+}
+
+.company-logo {
+  height: 33px;
+  width: 100px;
+}

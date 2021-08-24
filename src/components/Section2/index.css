@@ -1,0 +1,182 @@
+.section2-bg1 {
+  background-color: #f7f7fb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.profile-container {
+  display: flex;
+  box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.1);
+}
+
+.profile-card {
+  display: flex;
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.profile-img {
+  height: 250px;
+}
+
+.profile-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.comment {
+  width: 400px;
+  text-align: center;
+}
+
+.name {
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+.pos {
+  text-align: center;
+  font-size: 12px;
+  padding-top: 0px;
+}
+
+.arrow-card {
+  align-self: center;
+  height: 40px;
+  width: 40px;
+  border-radius: 30px;
+  padding: 10px 10px 15px;
+}
+
+.arrow {
+  height: 13px;
+  width: 20px;
+}
+
+.profile-heading {
+  color: #284db5;
+}
+
+.description {
+  font-size: 14px;
+  width: 200px;
+}
+
+.tag-container {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.section2-bg2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.switch-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.switch {
+  width: 45px;
+  border-radius: 12px;
+  background-color: #eae9f2;
+  padding: 0px;
+  margin-right: 10px;
+}
+
+.spacing {
+  font-size: 10px;
+  margin-right: 10px;
+}
+.box {
+  font-size: 10px;
+  height: 20px;
+  width: 70px;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+.price-card-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.price-card {
+  margin: 10px;
+}
+
+.pricing-card {
+  background-color: white;
+  padding: 30px;
+  width: 350px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.pricing-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.price-heading {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.free-trail-button {
+  color: white;
+  background-color: blue;
+  height: 40px;
+  border: 0px;
+  width: 350px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+.prop-card {
+  background-color: black;
+  padding: 30px;
+}
+
+.query-card-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.query-card {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+}
+
+.confirm-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.confirm-button {
+  color: white;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  height: 30px;
+}
